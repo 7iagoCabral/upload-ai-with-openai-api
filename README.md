@@ -1,4 +1,4 @@
-"# upload.ai" 
+# upload.ai 
 
 Projeto de gerador de texto com base em um vídeo, ele realiza o upload, transcrição e executa o prompt que desejar com base no conteúdo do vídeo.
 Desenvolvido no evento NLW da Rocketseat.
